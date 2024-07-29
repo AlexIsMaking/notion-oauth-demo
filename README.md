@@ -28,4 +28,4 @@ This is a example of how to use the Notion API to authenticate a user and fetch 
 
 ## Process
 
-![Process Diagram](image.png)
+![Process Diagram](image1.png)
