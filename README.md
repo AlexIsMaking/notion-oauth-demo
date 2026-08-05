@@ -1,5 +1,7 @@
 # Notion OAuth Demo
 
+**English** · [Español](README.es-ES.md)
+
 This is a example of how to use the Notion API to authenticate a user and fetch their data, ready to be deployed to Vercel. It implements the OAuth flow from Notion which is documented [here](https://developers.notion.com/docs/authorization#public-integration-auth-flow-set-up).
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAlexIsMaking%2Fnotion-oauth-demo&env=OAUTH_CLIENT_ID,OAUTH_CLIENT_SECRET&envDescription=API%20Keys%20needed%20for%20the%20application&envLink=https%3A%2F%2Fgithub.com%2FAlexIsMaking%2Fnotion-oauth-demo%2Fblob%2Fmain%2FREADME.md%23environment-variables)
