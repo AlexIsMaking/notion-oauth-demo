@@ -1,10 +1,10 @@
-
-
 # Demo de OAuth de Notion
+
+[English](README.md) · **Español**
 
 Este es un ejemplo de cómo usar la API de Notion para autenticar a un usuario y obtener sus datos, listo para ser desplegado en Vercel. Implementa el flujo de OAuth de Notion, que está documentado [aquí](https://developers.notion.com/docs/authorization#public-integration-auth-flow-set-up).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAlexIsMaking%2Fnotion-oauth-demo&env=OAUTH_CLIENT_ID,OAUTH_CLIENT_SECRET&envDescription=API%20Keys%20needed%20for%20the%20application&envLink=https%3A%2F%2Fgithub.com%2FAlexIsMaking%2Fnotion-oauth-demo%2Fblob%2Fmain%2FREADME.md%23environment-variables)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAlexIsMaking%2Fnotion-oauth-demo&env=OAUTH_CLIENT_ID,OAUTH_CLIENT_SECRET&envDescription=API%20Keys%20needed%20for%20the%20application&envLink=https%3A%2F%2Fgithub.com%2FAlexIsMaking%2Fnotion-oauth-demo%2Fblob%2Fmain%2FREADME.es-ES.md%23variables-de-entorno)
 
 ## Variables de Entorno
 
